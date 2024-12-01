@@ -8,6 +8,6 @@ namespace MagicTheGathering
 {
     class Land
     {
-
+        public enum ManaType { };
     }
 }
